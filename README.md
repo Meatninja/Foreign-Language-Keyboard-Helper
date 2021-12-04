@@ -6,7 +6,7 @@ Only German so far. Other languages coming soon(TM).
 
 Press Ctrl+Shift+Alt+U to bring up the UI for language selection.
 
-Once you pick something other than "Default" (your default keyboard language - with this option picked, you won't have access to any additional characters), you'll be able to type characters from that language while keeping your original keyboard functionality. Press right Alt + the corresponding character to type its foreign language version (e.g. "o" with right Alt becomes "ö" while German is selected).
+Once you pick something other than "Default" (your default keyboard language - with this option picked, you won't have access to any additional characters), you'll be able to type characters from that language while keeping your original keyboard functionality. Press AltGr + the corresponding character to type its foreign language version (e.g. "o" with AltGr becomes "ö" while German is selected).
 
 Experimental feature: if you are on the Duolingo page for German lessons (possibly other languages too - untested), you can use the keys F1, F2, F3 and F4 to press the buttons that let you listen to speech without using the mouse. Works based on screen coordinates - best used with a maximized Firefox window.
 
