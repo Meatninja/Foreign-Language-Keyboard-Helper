@@ -14,4 +14,4 @@ Press Ctrl+Shift+Alt+E if you wish to exit the program (this can also be done us
 
 This is an AutoHotkey (AHK) program, meaning that it will only run on Windows operating systems (definitely Windows 10, probably XP and up).
 
-Installation: Download and run the .ahk file. Done.
+Manual installation: Download and run the .ahk file. Done.
