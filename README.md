@@ -13,3 +13,5 @@ Experimental feature: if you are on the Duolingo page for German lessons (possib
 Press Ctrl+Shift+Alt+E if you wish to exit the program (this can also be done using the tray icon).
 
 This is an AutoHotkey (AHK) program, meaning that it will only run on Windows operating systems (definitely Windows 10, probably XP and up).
+
+Installation: Download and run the .ahk file. Done.
