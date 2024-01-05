@@ -96,6 +96,7 @@ return
 
 ; ------------- hotkeys start -------------
 
+
 ^+!U::	; Ctrl + Shift + Alt + U for UI (for picking the language)
 Gui, Font, s20, Verdana
 Gui, Add, Button, Default x20 y20 gSwitchLanguageToGerman, German
@@ -118,31 +119,6 @@ return
 
 #If	; clear #If
 
-
-; strictly Duolingo-related section
-#IfWinActive, Duolingo - The world's best way to learn German
-
-*F1::	; listen normally
-MouseClick, Left, % 0.48 * A_ScreenWidth, % 0.435 * A_ScreenHeight, 1
-MouseMove, % 0.5 * A_ScreenWidth, % 0.85 * A_ScreenHeight
-return
-
-*F2::	; listen slowly
-MouseClick, Left, % 0.53 * A_ScreenWidth, % 0.45 * A_ScreenHeight, 1
-MouseMove, % 0.5 * A_ScreenWidth, % 0.85 * A_ScreenHeight
-return
-
-*F3::	; listen normally (speech bubble)
-MouseClick, Left, % 0.435 * A_ScreenWidth, % 0.45 * A_ScreenHeight, 1
-MouseMove, % 0.5 * A_ScreenWidth, % 0.85 * A_ScreenHeight
-return
-
-*F4::	; listen slowly (speech bubble)
-MouseClick, Left, % 0.475 * A_ScreenWidth, % 0.45 * A_ScreenHeight, 1
-MouseMove, % 0.5 * A_ScreenWidth, % 0.85 * A_ScreenHeight
-return
-
-#IfWinActive	; clear IfWinActive
 
 
 ^+!e::	; Ctrl + Shift + Alt + E for emergency Exit
