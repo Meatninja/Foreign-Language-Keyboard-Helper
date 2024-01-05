@@ -13,5 +13,5 @@ Press Ctrl+Shift+Alt+E if you wish to exit the program (this can also be done us
 This is an AutoHotkey (AHK) program, meaning that it will only run on Windows operating systems (definitely Windows 10, probably XP and up).
 
 Installation:
-1. Download AutoHotkey v1.1 https://www.autohotkey.com/
+1. Download and install AutoHotkey v1.1 https://www.autohotkey.com/
 2. Download Foreign-Language-Keyboard-Helper.ahk from this repository and run it. Done.
